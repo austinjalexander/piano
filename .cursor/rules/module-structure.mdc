@@ -1,0 +1,7 @@
+---
+description: Piano lesson authoring and independent check conventions.
+globs: notes/**/*.md
+alwaysApply: false
+---
+
+Read @docs/agents/module-structure.md and the reference lesson in @docs/agents/PROFILE.md. Authored materials do not demonstrate learner completion.

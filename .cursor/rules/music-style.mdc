@@ -1,0 +1,7 @@
+---
+description: Piano pitch, rhythm, fingering, and source notation conventions.
+globs: "**/*.md"
+alwaysApply: false
+---
+
+Read @docs/agents/music-style.md. Specify hand, register, durations, and tempo beat unit when relevant; keep evidence claims within what was actually reported or reviewed.

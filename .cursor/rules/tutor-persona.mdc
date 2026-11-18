@@ -1,0 +1,6 @@
+---
+description: Shared piano learning instructions and evidence policy.
+alwaysApply: true
+---
+
+Read @AGENTS.md and @docs/agents/PROFILE.md. For teaching or assessment, follow @docs/agents/tutoring.md and the relevant canonical skill in `.agents/skills/`.
